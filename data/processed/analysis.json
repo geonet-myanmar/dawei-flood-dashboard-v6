@@ -1,0 +1,2048 @@
+{
+ "townships": {
+  "Tanintharyi": {
+   "ts": "Tanintharyi",
+   "ts_mm": "တနင်္သာရီ",
+   "pcode": "MMR006008",
+   "district": "Myeik",
+   "area_km2": 11352,
+   "villages": 194,
+   "village_tracts": 23,
+   "schools": 105,
+   "hospitals": 3,
+   "hospital_beds": 66,
+   "lowland_km2": 14.9,
+   "lowland_pct": 0.1,
+   "mining_sites": 3,
+   "mining_ha": 328.0,
+   "reported_sites": 41,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 1
+    },
+    "28": {
+     "sites": 4,
+     "fatal": 0,
+     "severe": 0,
+     "new": 3
+    },
+    "29": {
+     "sites": 13,
+     "fatal": 0,
+     "severe": 5,
+     "new": 9
+    },
+    "30": {
+     "sites": 24,
+     "fatal": 0,
+     "severe": 12,
+     "new": 11
+    },
+    "31": {
+     "sites": 36,
+     "fatal": 0,
+     "severe": 20,
+     "new": 12
+    },
+    "32": {
+     "sites": 41,
+     "fatal": 0,
+     "severe": 26,
+     "new": 5
+    }
+   },
+   "vt_hit": 13
+  },
+  "Dawei": {
+   "ts": "Dawei",
+   "ts_mm": "ထားဝယ်",
+   "pcode": "MMR006001",
+   "district": "Dawei",
+   "area_km2": 6824,
+   "villages": 94,
+   "village_tracts": 27,
+   "schools": 113,
+   "hospitals": 2,
+   "hospital_beds": 216,
+   "lowland_km2": 42.6,
+   "lowland_pct": 0.6,
+   "mining_sites": 36,
+   "mining_ha": 977.0,
+   "reported_sites": 23,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 10,
+     "fatal": 0,
+     "severe": 2,
+     "new": 10
+    },
+    "28": {
+     "sites": 19,
+     "fatal": 0,
+     "severe": 9,
+     "new": 9
+    },
+    "29": {
+     "sites": 20,
+     "fatal": 1,
+     "severe": 9,
+     "new": 1
+    },
+    "30": {
+     "sites": 23,
+     "fatal": 1,
+     "severe": 9,
+     "new": 3
+    },
+    "31": {
+     "sites": 23,
+     "fatal": 1,
+     "severe": 9,
+     "new": 0
+    },
+    "32": {
+     "sites": 23,
+     "fatal": 1,
+     "severe": 9,
+     "new": 0
+    }
+   },
+   "vt_hit": 9
+  },
+  "Launglon": {
+   "ts": "Launglon",
+   "ts_mm": "လောင်းလုံး",
+   "pcode": "MMR006002",
+   "district": "Dawei",
+   "area_km2": 789,
+   "villages": 113,
+   "village_tracts": 42,
+   "schools": 77,
+   "hospitals": 3,
+   "hospital_beds": 57,
+   "lowland_km2": 186.1,
+   "lowland_pct": 23.6,
+   "mining_sites": 4,
+   "mining_ha": 12.0,
+   "reported_sites": 44,
+   "by_day": {
+    "26": {
+     "sites": 4,
+     "fatal": 1,
+     "severe": 0,
+     "new": 4
+    },
+    "27": {
+     "sites": 28,
+     "fatal": 5,
+     "severe": 5,
+     "new": 24
+    },
+    "28": {
+     "sites": 37,
+     "fatal": 8,
+     "severe": 5,
+     "new": 9
+    },
+    "29": {
+     "sites": 43,
+     "fatal": 10,
+     "severe": 5,
+     "new": 6
+    },
+    "30": {
+     "sites": 43,
+     "fatal": 10,
+     "severe": 6,
+     "new": 0
+    },
+    "31": {
+     "sites": 44,
+     "fatal": 10,
+     "severe": 6,
+     "new": 1
+    },
+    "32": {
+     "sites": 44,
+     "fatal": 10,
+     "severe": 6,
+     "new": 0
+    }
+   },
+   "vt_hit": 28
+  },
+  "Thayetchaung": {
+   "ts": "Thayetchaung",
+   "ts_mm": "သရက်ချောင်း",
+   "pcode": "MMR006003",
+   "district": "Dawei",
+   "area_km2": 2100,
+   "villages": 103,
+   "village_tracts": 40,
+   "schools": 87,
+   "hospitals": 3,
+   "hospital_beds": 57,
+   "lowland_km2": 180.7,
+   "lowland_pct": 8.6,
+   "mining_sites": 4,
+   "mining_ha": 42.0,
+   "reported_sites": 32,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 16,
+     "fatal": 0,
+     "severe": 2,
+     "new": 16
+    },
+    "28": {
+     "sites": 25,
+     "fatal": 4,
+     "severe": 3,
+     "new": 9
+    },
+    "29": {
+     "sites": 32,
+     "fatal": 4,
+     "severe": 4,
+     "new": 7
+    },
+    "30": {
+     "sites": 32,
+     "fatal": 4,
+     "severe": 4,
+     "new": 0
+    },
+    "31": {
+     "sites": 32,
+     "fatal": 4,
+     "severe": 4,
+     "new": 0
+    },
+    "32": {
+     "sites": 32,
+     "fatal": 4,
+     "severe": 4,
+     "new": 0
+    }
+   },
+   "vt_hit": 22
+  },
+  "Yebyu": {
+   "ts": "Yebyu",
+   "ts_mm": "ရေဖြူ",
+   "pcode": "MMR006004",
+   "district": "Dawei",
+   "area_km2": 4061,
+   "villages": 140,
+   "village_tracts": 36,
+   "schools": 126,
+   "hospitals": 4,
+   "hospital_beds": 73,
+   "lowland_km2": 206.5,
+   "lowland_pct": 5.1,
+   "mining_sites": 56,
+   "mining_ha": 682.0,
+   "reported_sites": 1,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 1
+    },
+    "28": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "29": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "30": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "31": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "32": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    }
+   },
+   "vt_hit": 1
+  },
+  "Bokpyin": {
+   "ts": "Bokpyin",
+   "ts_mm": "ဘုတ်ပြင်း",
+   "pcode": "MMR006010",
+   "district": "Kawthoung",
+   "area_km2": 5827,
+   "villages": 107,
+   "village_tracts": 25,
+   "schools": 91,
+   "hospitals": 3,
+   "hospital_beds": 82,
+   "lowland_km2": 421.4,
+   "lowland_pct": 7.2,
+   "mining_sites": 1,
+   "mining_ha": 9.0,
+   "reported_sites": 1,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "28": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 1
+    },
+    "29": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "30": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "31": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "32": {
+     "sites": 1,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    }
+   },
+   "vt_hit": 1
+  },
+  "Palaw": {
+   "ts": "Palaw",
+   "ts_mm": "ပုလော",
+   "pcode": "MMR006007",
+   "district": "Myeik",
+   "area_km2": 2413,
+   "villages": 155,
+   "village_tracts": 30,
+   "schools": 135,
+   "hospitals": 6,
+   "hospital_beds": 130,
+   "lowland_km2": 184.5,
+   "lowland_pct": 7.6,
+   "mining_sites": 7,
+   "mining_ha": 185.0,
+   "reported_sites": 3,
+   "by_day": {
+    "26": {
+     "sites": 0,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "27": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 3
+    },
+    "28": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "29": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "30": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "31": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    },
+    "32": {
+     "sites": 3,
+     "fatal": 0,
+     "severe": 0,
+     "new": 0
+    }
+   },
+   "vt_hit": 2
+  }
+ },
+ "aoi": {
+  "villages": 906,
+  "village_tracts": 223,
+  "schools": 734,
+  "hospitals": 24,
+  "area_km2": 33366,
+  "lowland_km2": 1237.0,
+  "mining_sites": 111,
+  "mining_ha": 2234.0,
+  "district_villages": 450,
+  "district_schools": 403,
+  "district_hospitals": 12
+ },
+ "near_sites": [
+  {
+   "kind": "hospital",
+   "name": "Tanintharyi Township Hospital",
+   "site": "tanintharyi-town",
+   "site_en": "Tanintharyi town",
+   "sev": "severe",
+   "dist_m": 194,
+   "lon": 99.01111,
+   "lat": 12.0888
+  },
+  {
+   "kind": "hospital",
+   "name": "Thayetchaung Township Hospital",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 285,
+   "lon": 98.2641,
+   "lat": 13.86664
+  },
+  {
+   "kind": "hospital",
+   "name": "Pe Det Station Hospital",
+   "site": "pe-det",
+   "site_en": "Pe Det",
+   "sev": "severe",
+   "dist_m": 328,
+   "lon": 98.50688,
+   "lat": 13.45014
+  },
+  {
+   "kind": "hospital",
+   "name": "Tha Kyet Taw Station Hospital",
+   "site": "tha-kyet-taw",
+   "site_en": "Tha Kyet Taw",
+   "sev": "affected",
+   "dist_m": 501,
+   "lon": 98.15112,
+   "lat": 13.75557
+  },
+  {
+   "kind": "hospital",
+   "name": "Ta Gu Station Hospital",
+   "site": "ywar-ma",
+   "site_en": "Ywar Ma",
+   "sev": "severe",
+   "dist_m": 525,
+   "lon": 99.03868,
+   "lat": 12.25729
+  },
+  {
+   "kind": "hospital",
+   "name": "Dawei General Hospital",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 752,
+   "lon": 98.20311,
+   "lat": 14.07923
+  },
+  {
+   "kind": "hospital",
+   "name": "Palauk Station Hospital",
+   "site": "palauk",
+   "site_en": "Palauk",
+   "sev": "affected",
+   "dist_m": 882,
+   "lon": 98.62584,
+   "lat": 13.26496
+  },
+  {
+   "kind": "school",
+   "name": "အမက(တားပလတ်)",
+   "site": "ta-pa-lat",
+   "site_en": "Ta Pa Lat",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 99.08942,
+   "lat": 11.87983
+  },
+  {
+   "kind": "school",
+   "name": "အလက(‌ရောင်းမော်)",
+   "site": "yaung-maw",
+   "site_en": "Yaung Maw",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.24176,
+   "lat": 14.01211
+  },
+  {
+   "kind": "school",
+   "name": "အမက(လိပ်ကြယ်ပြောင်)",
+   "site": "leik-kyei-pyaung",
+   "site_en": "Leik Kyei Pyaung",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.34433,
+   "lat": 14.16175
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ခွဲ)(သပြေရှောင်)",
+   "site": "tha-pyay-shaung",
+   "site_en": "Tha Pyay Shaung",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.16515,
+   "lat": 13.82825
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ပဉ္စသီမော်)",
+   "site": "pyin-sa-thi-maw",
+   "site_en": "Pyin Sa Thi Maw",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.14023,
+   "lat": 14.01025
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ခွဲ)(ကျောက်နီမော််)",
+   "site": "kyauk-ni-maw",
+   "site_en": "Kyauk Ni Maw",
+   "sev": "fatal",
+   "dist_m": 0,
+   "lon": 98.18098,
+   "lat": 13.65575
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကရင်ကြီး)",
+   "site": "kayin-gyi",
+   "site_en": "Kayin Gyi",
+   "sev": "severe",
+   "dist_m": 0,
+   "lon": 98.09908,
+   "lat": 14.07111
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကျောက်ဝပ်ပြင်)",
+   "site": "kyauk-wut-pyin",
+   "site_en": "Kyauk Wut Pyin",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.16692,
+   "lat": 13.64218
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ပညစ်)",
+   "site": "pa-nyit",
+   "site_en": "Pa Nyit",
+   "sev": "severe",
+   "dist_m": 0,
+   "lon": 98.06927,
+   "lat": 14.00735
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကြက်လွှတ်)",
+   "site": "kyet-hlut",
+   "site_en": "Kyet Hlut",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.15916,
+   "lat": 13.56178
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ဂုံညှင်းဆိပ်)",
+   "site": "oke-tu",
+   "site_en": "Oke Tu",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.27586,
+   "lat": 13.93532
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ကျောက်ဆည်)",
+   "site": "kywe-chan",
+   "site_en": "Kywe Chan",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.41011,
+   "lat": 13.76635
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ကျွဲခြံ)",
+   "site": "ka-nyin-chaung",
+   "site_en": "Ka Nyin Chaung",
+   "sev": "fatal",
+   "dist_m": 0,
+   "lon": 98.42805,
+   "lat": 13.52631
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(မာလကာချောင်း)",
+   "site": "mei-ke",
+   "site_en": "Mei Ke",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.43425,
+   "lat": 13.83816
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(တလိုင်းတောင်)",
+   "site": "ta-laing-taung",
+   "site_en": "Ta Laing Taung",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.24163,
+   "lat": 14.08339
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကျောက်ရပ်)",
+   "site": "kyauk-yat",
+   "site_en": "Kyauk Yat",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.22398,
+   "lat": 14.06783
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကျောက်မတ္တပ်)",
+   "site": "kyauk-mat-tat",
+   "site_en": "Kyauk Mat Tat",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.15102,
+   "lat": 13.58211
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ရေဖြူ)",
+   "site": "yae-hpyu-tni",
+   "site_en": "Yay Phyu",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 99.07186,
+   "lat": 11.93664
+  },
+  {
+   "kind": "school",
+   "name": "အမက(သဗျာ)",
+   "site": "tha-byar",
+   "site_en": "Tha Byar",
+   "sev": "fatal",
+   "dist_m": 0,
+   "lon": 98.12913,
+   "lat": 14.00968
+  },
+  {
+   "kind": "school",
+   "name": "အလက(အောက်သရက်ချောင်း)",
+   "site": "kyar-inn",
+   "site_en": "Kyar Inn",
+   "sev": "severe",
+   "dist_m": 0,
+   "lon": 98.25016,
+   "lat": 13.98778
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ကျောက်လှေကား)",
+   "site": "yan-taung",
+   "site_en": "Yan Taung",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.24014,
+   "lat": 13.97033
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ချောင်းဖျားကြီး)",
+   "site": "chaung-hpyar-gyi",
+   "site_en": "Chaung Hpyar Gyi",
+   "sev": "affected",
+   "dist_m": 0,
+   "lon": 98.11456,
+   "lat": 13.73677
+  },
+  {
+   "kind": "school",
+   "name": "အမက-ပဲရေပူစမ်း",
+   "site": "kyauk-hlay-kar",
+   "site_en": "Kyauk Hlay Kar",
+   "sev": "affected",
+   "dist_m": 24,
+   "lon": 98.29817,
+   "lat": 13.97244
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ကင်းရှေ့)",
+   "site": "kyauk-hlay-kar",
+   "site_en": "Kyauk Hlay Kar",
+   "sev": "affected",
+   "dist_m": 35,
+   "lon": 98.29822,
+   "lat": 13.97255
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ပျားသားချောင်း)",
+   "site": "pyar-thar-chaung",
+   "site_en": "Pyar Thar Chaung",
+   "sev": "fatal",
+   "dist_m": 50,
+   "lon": 98.56536,
+   "lat": 13.96681
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဆင်ထောက်)",
+   "site": "wea-ma-kaik",
+   "site_en": "Wea Ma Kaik",
+   "sev": "affected",
+   "dist_m": 71,
+   "lon": 98.11656,
+   "lat": 13.70329
+  },
+  {
+   "kind": "school",
+   "name": "အလက(လယ်တောင်ယာ)",
+   "site": "lel-taung-yar",
+   "site_en": "Lel Taung Yar",
+   "sev": "affected",
+   "dist_m": 81,
+   "lon": 99.00162,
+   "lat": 12.06244
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၂)တီတွတ်ပြင်)",
+   "site": "ka-zi-hte",
+   "site_en": "Ka Zi Hte",
+   "sev": "affected",
+   "dist_m": 85,
+   "lon": 98.27202,
+   "lat": 13.89716
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ချောင်းလမု)",
+   "site": "chaung-la-mu",
+   "site_en": "Chaung La Mu",
+   "sev": "severe",
+   "dist_m": 114,
+   "lon": 99.11339,
+   "lat": 11.85798
+  },
+  {
+   "kind": "school",
+   "name": "အလက(မင်းဒပ်)",
+   "site": "min-dat",
+   "site_en": "Min Dat",
+   "sev": "affected",
+   "dist_m": 120,
+   "lon": 98.3789,
+   "lat": 13.67884
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကညုံ)",
+   "site": "ka-nyon-ward",
+   "site_en": "Ka Nyon ward",
+   "sev": "severe",
+   "dist_m": 121,
+   "lon": 98.19727,
+   "lat": 14.07075
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဝမော်)",
+   "site": "wa-maw",
+   "site_en": "Wa Maw",
+   "sev": "affected",
+   "dist_m": 121,
+   "lon": 98.23206,
+   "lat": 14.06549
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဆေးဖြတ်ကုန်း)",
+   "site": "kyet-sar-pyin",
+   "site_en": "Kyet Sar Pyin",
+   "sev": "affected",
+   "dist_m": 122,
+   "lon": 98.25237,
+   "lat": 13.99788
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(လမိုင်းကော့)",
+   "site": "ah-lel-paing",
+   "site_en": "Ah Lel Paing",
+   "sev": "severe",
+   "dist_m": 125,
+   "lon": 99.05852,
+   "lat": 12.27046
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဆီတောကြီး)",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 136,
+   "lon": 98.26135,
+   "lat": 13.86823
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ခွဲ)(ကဒက်ကြီး)",
+   "site": "ka-det-gyi",
+   "site_en": "Ka Det Gyi",
+   "sev": "fatal",
+   "dist_m": 150,
+   "lon": 98.15288,
+   "lat": 13.88108
+  },
+  {
+   "kind": "school",
+   "name": "အမက(လယ်လှ)",
+   "site": "tha-kyet-taw",
+   "site_en": "Tha Kyet Taw",
+   "sev": "affected",
+   "dist_m": 151,
+   "lon": 98.14955,
+   "lat": 13.75212
+  },
+  {
+   "kind": "school",
+   "name": "အမက(သဲတော)",
+   "site": "yaung-maw",
+   "site_en": "Yaung Maw",
+   "sev": "affected",
+   "dist_m": 164,
+   "lon": 98.2408,
+   "lat": 14.01326
+  },
+  {
+   "kind": "school",
+   "name": "အမက(သ၀င်)",
+   "site": "tha-win",
+   "site_en": "Tha Win",
+   "sev": "affected",
+   "dist_m": 175,
+   "lon": 98.15746,
+   "lat": 13.77787
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ခွဲ)အလက(၃)",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 177,
+   "lon": 98.19287,
+   "lat": 14.06473
+  },
+  {
+   "kind": "school",
+   "name": "အလက-ကဒဲ",
+   "site": "ka-de",
+   "site_en": "Ka De",
+   "sev": "affected",
+   "dist_m": 177,
+   "lon": 98.69456,
+   "lat": 12.89068
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရဘဲ)",
+   "site": "ra-be",
+   "site_en": "Ra Be",
+   "sev": "affected",
+   "dist_m": 179,
+   "lon": 98.15319,
+   "lat": 13.72432
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၂)(ကျောက်မြောင်း)",
+   "site": "sin-ku",
+   "site_en": "Sin Ku",
+   "sev": "affected",
+   "dist_m": 183,
+   "lon": 98.27912,
+   "lat": 13.82954
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(၀င်းကဖော်)",
+   "site": "pyin-hpyu-gyi",
+   "site_en": "Pyin Hpyu Gyi",
+   "sev": "affected",
+   "dist_m": 187,
+   "lon": 98.302,
+   "lat": 13.74654
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ပိန္နဲတော)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 203,
+   "lon": 98.19464,
+   "lat": 14.07826
+  },
+  {
+   "kind": "school",
+   "name": "အထက(၂)",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 222,
+   "lon": 98.19503,
+   "lat": 14.06656
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ညောပြင်)",
+   "site": "nyaw-pyin",
+   "site_en": "Nyaw Pyin",
+   "sev": "fatal",
+   "dist_m": 249,
+   "lon": 98.14829,
+   "lat": 13.63274
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဘုမ္မော်)",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 254,
+   "lon": 98.19278,
+   "lat": 14.0686
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(စောမိညို)",
+   "site": "kyet-sa-pyin-ward",
+   "site_en": "Kyet Sa Pyin ward",
+   "sev": "severe",
+   "dist_m": 259,
+   "lon": 98.19048,
+   "lat": 14.05801
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(ပအော့အနောက်)",
+   "site": "kin-shey",
+   "site_en": "Kin Shey",
+   "sev": "severe",
+   "dist_m": 267,
+   "lon": 98.2794,
+   "lat": 14.02345
+  },
+  {
+   "kind": "school",
+   "name": "အမက(မဲနယ်အိုး)",
+   "site": "chauk-chaung",
+   "site_en": "Chauk Chaung",
+   "sev": "affected",
+   "dist_m": 268,
+   "lon": 98.32043,
+   "lat": 13.75813
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရမ္မဇူ)",
+   "site": "yam-ma-zu",
+   "site_en": "Yam Ma Zu",
+   "sev": "affected",
+   "dist_m": 279,
+   "lon": 98.32616,
+   "lat": 14.14242
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၂)(မြို့မ)",
+   "site": "moe-shwe-kone",
+   "site_en": "Moe Shwe Kone",
+   "sev": "affected",
+   "dist_m": 291,
+   "lon": 98.25805,
+   "lat": 13.8855
+  },
+  {
+   "kind": "school",
+   "name": "အမက((က)ရပ်ကွက်)",
+   "site": "launglon-town",
+   "site_en": "Launglon town",
+   "sev": "affected",
+   "dist_m": 292,
+   "lon": 98.12001,
+   "lat": 13.97783
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကရပ်ပြင်)(တောင်)",
+   "site": "ka-nyon-ward",
+   "site_en": "Ka Nyon ward",
+   "sev": "severe",
+   "dist_m": 295,
+   "lon": 98.20107,
+   "lat": 14.0713
+  },
+  {
+   "kind": "school",
+   "name": "အမက(တလိုင်းတပ်)",
+   "site": "thar-ra-bwin",
+   "site_en": "Thar Ra Bwin",
+   "sev": "affected",
+   "dist_m": 306,
+   "lon": 99.03593,
+   "lat": 12.29002
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကျွဲထိန်းကွင်း)",
+   "site": "chaung-gyi-ward",
+   "site_en": "Chaung Gyi ward",
+   "sev": "severe",
+   "dist_m": 344,
+   "lon": 99.00763,
+   "lat": 12.08499
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ပိတောက်တန်း)",
+   "site": "mya-yar-chaung",
+   "site_en": "Mya Yar Chaung",
+   "sev": "severe",
+   "dist_m": 345,
+   "lon": 99.05677,
+   "lat": 12.26136
+  },
+  {
+   "kind": "school",
+   "name": "အမက((ခ)ရပ်ကွက်)",
+   "site": "launglon-town",
+   "site_en": "Launglon town",
+   "sev": "affected",
+   "dist_m": 346,
+   "lon": 98.12276,
+   "lat": 13.97588
+  },
+  {
+   "kind": "school",
+   "name": "အထက(၃)",
+   "site": "ka-nyon-ward",
+   "site_en": "Ka Nyon ward",
+   "sev": "severe",
+   "dist_m": 349,
+   "lon": 98.19703,
+   "lat": 14.07362
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဆင်ကူး)",
+   "site": "sin-ku",
+   "site_en": "Sin Ku",
+   "sev": "affected",
+   "dist_m": 358,
+   "lon": 98.28041,
+   "lat": 13.82526
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ပကာရီ)",
+   "site": "pa-kar-ri",
+   "site_en": "Pa Kar Ri",
+   "sev": "severe",
+   "dist_m": 359,
+   "lon": 98.30183,
+   "lat": 14.11075
+  },
+  {
+   "kind": "school",
+   "name": "အထက(အောက်ရေဖြူ)",
+   "site": "auk-yay-phyu",
+   "site_en": "Auk Yay Phyu",
+   "sev": "severe",
+   "dist_m": 372,
+   "lon": 98.14397,
+   "lat": 13.89724
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကျောက်တွင်း)",
+   "site": "kyauk-twin",
+   "site_en": "Kyauk Twin",
+   "sev": "affected",
+   "dist_m": 398,
+   "lon": 98.11843,
+   "lat": 13.71942
+  },
+  {
+   "kind": "school",
+   "name": "အထက(သရက်ချောင်း)",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 410,
+   "lon": 98.2632,
+   "lat": 13.86505
+  },
+  {
+   "kind": "school",
+   "name": "အထက(သကျက်တော)",
+   "site": "tha-kyet-taw",
+   "site_en": "Tha Kyet Taw",
+   "sev": "affected",
+   "dist_m": 439,
+   "lon": 98.14693,
+   "lat": 13.74915
+  },
+  {
+   "kind": "school",
+   "name": "အထက(၁)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 439,
+   "lon": 98.19515,
+   "lat": 14.07374
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၀တ်သားကင်)",
+   "site": "ka-det-gyi",
+   "site_en": "Ka Det Gyi",
+   "sev": "fatal",
+   "dist_m": 444,
+   "lon": 98.15479,
+   "lat": 13.87654
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)သံတိုက်",
+   "site": "taik-kan",
+   "site_en": "Taik Kan",
+   "sev": "severe",
+   "dist_m": 448,
+   "lon": 99.03849,
+   "lat": 12.25227
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ထိန်လယ်)",
+   "site": "min-yat",
+   "site_en": "Min Yat",
+   "sev": "fatal",
+   "dist_m": 469,
+   "lon": 98.15246,
+   "lat": 14.04912
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကရပ်ပြင်)(မြောက်)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 485,
+   "lon": 98.2004,
+   "lat": 14.0756
+  },
+  {
+   "kind": "school",
+   "name": "အမက(တကူငယ်)",
+   "site": "inn-shey-kone",
+   "site_en": "Inn Shey Kone",
+   "sev": "severe",
+   "dist_m": 503,
+   "lon": 99.03555,
+   "lat": 12.25784
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရေဝိုင်း)",
+   "site": "pa-kar-ri",
+   "site_en": "Pa Kar Ri",
+   "sev": "severe",
+   "dist_m": 504,
+   "lon": 98.30164,
+   "lat": 14.11225
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အင်းရှည်ကုန်း)",
+   "site": "mya-yar-chaung",
+   "site_en": "Mya Yar Chaung",
+   "sev": "severe",
+   "dist_m": 512,
+   "lon": 99.05324,
+   "lat": 12.26588
+  },
+  {
+   "kind": "school",
+   "name": "အမက(မရာချောင်း)",
+   "site": "mya-yar-chaung",
+   "site_en": "Mya Yar Chaung",
+   "sev": "severe",
+   "dist_m": 513,
+   "lon": 99.05876,
+   "lat": 12.25983
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ကမြောကြီး)",
+   "site": "ka-myaw-gyi",
+   "site_en": "Ka Myaw Gyi",
+   "sev": "affected",
+   "dist_m": 527,
+   "lon": 98.16969,
+   "lat": 14.08826
+  },
+  {
+   "kind": "school",
+   "name": "အမက(မြို့တွင်း)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 527,
+   "lon": 98.19187,
+   "lat": 14.07565
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အိုးလုပ်)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 537,
+   "lon": 98.19139,
+   "lat": 14.07739
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကျောက်ဖြူ)",
+   "site": "auk-yay-phyu",
+   "site_en": "Auk Yay Phyu",
+   "sev": "severe",
+   "dist_m": 544,
+   "lon": 98.14534,
+   "lat": 13.89643
+  },
+  {
+   "kind": "school",
+   "name": "အထက(လောင်းလုံး)",
+   "site": "launglon-town",
+   "site_en": "Launglon town",
+   "sev": "affected",
+   "dist_m": 546,
+   "lon": 98.11493,
+   "lat": 13.97342
+  },
+  {
+   "kind": "school",
+   "name": "အမက(လိပ်လှအိုင်)",
+   "site": "pe-det",
+   "site_en": "Pe Det",
+   "sev": "severe",
+   "dist_m": 547,
+   "lon": 98.50422,
+   "lat": 13.45181
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ပြည်ကြီးမဏ္ဍိုင်)",
+   "site": "lay-hnya",
+   "site_en": "Lay Hnya",
+   "sev": "affected",
+   "dist_m": 556,
+   "lon": 98.99055,
+   "lat": 11.45254
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဆင်မတန်း)",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 568,
+   "lon": 98.26219,
+   "lat": 13.87382
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ပုံကျွန်း)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 569,
+   "lon": 98.19193,
+   "lat": 14.08033
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဇရစ်)",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 579,
+   "lon": 98.19003,
+   "lat": 14.07069
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၀ဲရစ်)",
+   "site": "moe-shwe-kone",
+   "site_en": "Moe Shwe Kone",
+   "sev": "affected",
+   "dist_m": 601,
+   "lon": 98.25845,
+   "lat": 13.89342
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(‌ခြောက်မိုင်)",
+   "site": "sin-chay-hpone",
+   "site_en": "Sin Chay Hpone tract",
+   "sev": "affected",
+   "dist_m": 620,
+   "lon": 99.11074,
+   "lat": 12.07686
+  },
+  {
+   "kind": "school",
+   "name": "အမက-ကလိန်အောင်",
+   "site": "kaleinaung",
+   "site_en": "Kaleinaung",
+   "sev": "affected",
+   "dist_m": 634,
+   "lon": 98.13309,
+   "lat": 14.62153
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရင်းဘုတ်)",
+   "site": "nyin-maw",
+   "site_en": "Nyin Maw",
+   "sev": "affected",
+   "dist_m": 658,
+   "lon": 98.12385,
+   "lat": 13.93599
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရွာသစ်ကုန်း)",
+   "site": "tha-kyet-taw",
+   "site_en": "Tha Kyet Taw",
+   "sev": "affected",
+   "dist_m": 676,
+   "lon": 98.15342,
+   "lat": 13.75648
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရေခမ်းချောင်း)",
+   "site": "sin-din",
+   "site_en": "Sin Din",
+   "sev": "affected",
+   "dist_m": 715,
+   "lon": 98.91402,
+   "lat": 12.21786
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဘန်လော)(န)",
+   "site": "yae-paw",
+   "site_en": "Yay Paw",
+   "sev": "severe",
+   "dist_m": 716,
+   "lon": 99.06645,
+   "lat": 12.12947
+  },
+  {
+   "kind": "school",
+   "name": "အမက(၁)(မြို့မ)",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 730,
+   "lon": 98.26112,
+   "lat": 13.87516
+  },
+  {
+   "kind": "school",
+   "name": "အမက(သာယာကုန်း)",
+   "site": "inn-wun",
+   "site_en": "Inn Wun",
+   "sev": "affected",
+   "dist_m": 738,
+   "lon": 98.15921,
+   "lat": 14.07824
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဆင်စွယ်ချောင်း)",
+   "site": "pyar-thar-chaung",
+   "site_en": "Pyar Thar Chaung",
+   "sev": "fatal",
+   "dist_m": 739,
+   "lon": 98.56983,
+   "lat": 13.96216
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ဒေါင်းငူ)",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 744,
+   "lon": 98.18727,
+   "lat": 14.07009
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(သကျက်)",
+   "site": "tha-kyet",
+   "site_en": "Tha Kyet",
+   "sev": "severe",
+   "dist_m": 760,
+   "lon": 99.11314,
+   "lat": 12.09504
+  },
+  {
+   "kind": "school",
+   "name": "အမက(တပ်ဦး)",
+   "site": "chaung-nge-ward",
+   "site_en": "Chaung Nge ward",
+   "sev": "severe",
+   "dist_m": 799,
+   "lon": 99.01191,
+   "lat": 12.07638
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဇလွန်း)",
+   "site": "za-lun",
+   "site_en": "Za Lun",
+   "sev": "affected",
+   "dist_m": 810,
+   "lon": 98.2337,
+   "lat": 14.08971
+  },
+  {
+   "kind": "school",
+   "name": "အထက(ခွဲ)ရေပေါ်",
+   "site": "yae-paw",
+   "site_en": "Yay Paw",
+   "sev": "severe",
+   "dist_m": 822,
+   "lon": 99.05992,
+   "lat": 12.12449
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ညောင်ရမ်း)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 823,
+   "lon": 98.20208,
+   "lat": 14.08244
+  },
+  {
+   "kind": "school",
+   "name": "အလက(ခွဲ)(တီဇစ်)",
+   "site": "ti-zit",
+   "site_en": "Ti Zit",
+   "sev": "fatal",
+   "dist_m": 825,
+   "lon": 98.10046,
+   "lat": 13.90382
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အနောက်)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 831,
+   "lon": 98.18925,
+   "lat": 14.07464
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဆန်းချီ)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 840,
+   "lon": 98.19291,
+   "lat": 14.08434
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ပေတခပ်)",
+   "site": "thayetchaung-town",
+   "site_en": "Thayetchaung town",
+   "sev": "fatal",
+   "dist_m": 842,
+   "lon": 98.26697,
+   "lat": 13.86245
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အလယ်ပိုင်း)",
+   "site": "mya-yar-chaung",
+   "site_en": "Mya Yar Chaung",
+   "sev": "severe",
+   "dist_m": 845,
+   "lon": 99.04992,
+   "lat": 12.264
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကျောက်မော်)",
+   "site": "kyauk-maw-ward",
+   "site_en": "Kyauk Maw ward",
+   "sev": "affected",
+   "dist_m": 859,
+   "lon": 98.20778,
+   "lat": 14.07272
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အင်းနီတွင်း)",
+   "site": "kyauk-ni-maw",
+   "site_en": "Kyauk Ni Maw",
+   "sev": "fatal",
+   "dist_m": 867,
+   "lon": 98.18188,
+   "lat": 13.66354
+  },
+  {
+   "kind": "school",
+   "name": "အမက(အတွင်းကဇိ)",
+   "site": "kyar-inn",
+   "site_en": "Kyar Inn",
+   "sev": "severe",
+   "dist_m": 876,
+   "lon": 98.25151,
+   "lat": 13.97997
+  },
+  {
+   "kind": "school",
+   "name": "အမက(‌ချောင်းငယ်)",
+   "site": "chaung-nge-ward",
+   "site_en": "Chaung Nge ward",
+   "sev": "severe",
+   "dist_m": 880,
+   "lon": 99.01384,
+   "lat": 12.07532
+  },
+  {
+   "kind": "school",
+   "name": "အမက(သင်္ဘောဆိပ်(၁))",
+   "site": "bon-maw-ward",
+   "site_en": "Bon Maw ward",
+   "sev": "severe",
+   "dist_m": 892,
+   "lon": 98.18642,
+   "lat": 14.07122
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(ဥဿရံ)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 925,
+   "lon": 98.18833,
+   "lat": 14.08046
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ကထိန်ကြီး)",
+   "site": "auk-yay-phyu",
+   "site_en": "Auk Yay Phyu",
+   "sev": "severe",
+   "dist_m": 939,
+   "lon": 98.13529,
+   "lat": 13.90514
+  },
+  {
+   "kind": "school",
+   "name": "မူလွန်(‌ေ ကျာက်စရစ်)",
+   "site": "kyauk-sa-yit",
+   "site_en": "Kyauk Sa Yit",
+   "sev": "severe",
+   "dist_m": 949,
+   "lon": 99.06113,
+   "lat": 12.23381
+  },
+  {
+   "kind": "school",
+   "name": "အမက(ရှမ္မလည်ဆွဲ)",
+   "site": "ka-nyon-ward",
+   "site_en": "Ka Nyon ward",
+   "sev": "severe",
+   "dist_m": 969,
+   "lon": 98.2064,
+   "lat": 14.07472
+  },
+  {
+   "kind": "school",
+   "name": "အမက(မြောင်းပုလဲ)",
+   "site": "dawei-town",
+   "site_en": "Dawei town",
+   "sev": "severe",
+   "dist_m": 974,
+   "lon": 98.18752,
+   "lat": 14.07925
+  },
+  {
+   "kind": "school",
+   "name": "အမက(‌အောက်ကင်းရှေ့)",
+   "site": "chaung-gyi-ward",
+   "site_en": "Chaung Gyi ward",
+   "sev": "severe",
+   "dist_m": 998,
+   "lon": 99.00052,
+   "lat": 12.08793
+  },
+  {
+   "kind": "school",
+   "name": "အထက(တနင်္သာရီ)",
+   "site": "chaung-nge-ward",
+   "site_en": "Chaung Nge ward",
+   "sev": "severe",
+   "dist_m": 998,
+   "lon": 99.01204,
+   "lat": 12.07449
+  }
+ ],
+ "near_m": 1000,
+ "reach": {
+  "27": {
+   "limit": "Poe Zar Pin slide",
+   "lat": 13.95626,
+   "lon": 98.13911,
+   "villages": 53,
+   "village_tracts": 17,
+   "schools": 30,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 17,
+   "reported_ids": [
+    "sit-pyay",
+    "nyin-maw",
+    "ka-htaung-ni",
+    "ka-nyon-kyun",
+    "gawt-inn",
+    "auk-yay-phyu",
+    "ka-det-gyi",
+    "ka-det-nge-htein",
+    "ka-det-nge-seik",
+    "taw-kye",
+    "tha-pyay-shaung",
+    "tha-kyet-taw",
+    "za-lut",
+    "ti-zit",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut"
+   ],
+   "fatal": 4,
+   "red": 4,
+   "area_km2": 387.0
+  },
+  "28": {
+   "limit": "Auk Yay Phyu",
+   "lat": 13.89859,
+   "lon": 98.14082,
+   "villages": 36,
+   "village_tracts": 14,
+   "schools": 23,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 13,
+   "reported_ids": [
+    "ka-det-gyi",
+    "ka-det-nge-htein",
+    "taw-kye",
+    "tha-pyay-shaung",
+    "tha-kyet-taw",
+    "ra-be",
+    "za-lut",
+    "za-lut-pyin-gyi",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut",
+    "tha-win",
+    "auk-kyauk-wut"
+   ],
+   "fatal": 6,
+   "red": 4,
+   "area_km2": 295.0
+  },
+  "29": {
+   "limit": "Taw Kye",
+   "lat": 13.79993,
+   "lon": 98.1596,
+   "villages": 21,
+   "village_tracts": 7,
+   "schools": 15,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 15,
+   "reported_ids": [
+    "tha-kyet-taw",
+    "ra-be",
+    "za-lut",
+    "za-lut-pyin-gyi",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut",
+    "tha-win",
+    "auk-kyauk-wut",
+    "kyauk-wut-pyin",
+    "kyauk-pon",
+    "kyauk-twin",
+    "sun-gyi",
+    "chaung-hpyar-gyi",
+    "wea-ma-kaik"
+   ],
+   "fatal": 4,
+   "red": 3,
+   "area_km2": 172.0
+  },
+  "30": {
+   "limit": "the Taw Kye–Tha Win slide",
+   "lat": 13.78825,
+   "lon": 98.15878,
+   "villages": 21,
+   "village_tracts": 7,
+   "schools": 15,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 15,
+   "reported_ids": [
+    "tha-kyet-taw",
+    "ra-be",
+    "za-lut",
+    "za-lut-pyin-gyi",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut",
+    "tha-win",
+    "auk-kyauk-wut",
+    "kyauk-wut-pyin",
+    "kyauk-pon",
+    "kyauk-twin",
+    "sun-gyi",
+    "chaung-hpyar-gyi",
+    "wea-ma-kaik"
+   ],
+   "fatal": 4,
+   "red": 3,
+   "area_km2": 158.0
+  },
+  "31": {
+   "limit": "the Taw Kye–Tha Win slide",
+   "lat": 13.78825,
+   "lon": 98.15878,
+   "villages": 21,
+   "village_tracts": 7,
+   "schools": 15,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 16,
+   "reported_ids": [
+    "tha-kyet-taw",
+    "ra-be",
+    "za-lut",
+    "za-lut-pyin-gyi",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut",
+    "tha-win",
+    "auk-kyauk-wut",
+    "kyauk-wut-pyin",
+    "kyauk-pon",
+    "kyauk-twin",
+    "sun-gyi",
+    "chaung-hpyar-gyi",
+    "wea-ma-kaik",
+    "kyauk-mat-tat"
+   ],
+   "fatal": 4,
+   "red": 3,
+   "area_km2": 158.0
+  },
+  "32": {
+   "limit": "the Taw Kye–Tha Win slide",
+   "lat": 13.78825,
+   "lon": 98.15878,
+   "villages": 21,
+   "village_tracts": 7,
+   "schools": 15,
+   "hospitals": 1,
+   "hospital_names": [
+    "Tha Kyet Taw Station Hospital"
+   ],
+   "reported_sites": 16,
+   "reported_ids": [
+    "tha-kyet-taw",
+    "ra-be",
+    "za-lut",
+    "za-lut-pyin-gyi",
+    "kyauk-ni-maw",
+    "nyaw-pyin",
+    "kyet-hlut",
+    "tha-win",
+    "auk-kyauk-wut",
+    "kyauk-wut-pyin",
+    "kyauk-pon",
+    "kyauk-twin",
+    "sun-gyi",
+    "chaung-hpyar-gyi",
+    "wea-ma-kaik",
+    "kyauk-mat-tat"
+   ],
+   "fatal": 4,
+   "red": 3,
+   "area_km2": 158.0
+  },
+  "launglon_villages": 113,
+  "launglon_schools": 77
+ },
+ "route": {
+  "legs": [
+   {
+    "day": 27,
+    "mode": "road",
+    "coords": [
+     [
+      98.19636,
+      14.07753
+     ],
+     [
+      98.16753,
+      14.08399
+     ]
+    ]
+   },
+   {
+    "day": 27,
+    "mode": "road",
+    "coords": [
+     [
+      98.16753,
+      14.08399
+     ],
+     [
+      98.12913,
+      14.00968
+     ]
+    ]
+   },
+   {
+    "day": 27,
+    "mode": "road",
+    "coords": [
+     [
+      98.12913,
+      14.00968
+     ],
+     [
+      98.11963,
+      13.97522
+     ]
+    ]
+   },
+   {
+    "day": 27,
+    "mode": "road",
+    "coords": [
+     [
+      98.11963,
+      13.97522
+     ],
+     [
+      98.13911,
+      13.95626
+     ]
+    ]
+   },
+   {
+    "day": 28,
+    "mode": "foot",
+    "coords": [
+     [
+      98.13911,
+      13.95626
+     ],
+     [
+      98.13469,
+      13.88634
+     ]
+    ]
+   },
+   {
+    "day": 28,
+    "mode": "foot",
+    "coords": [
+     [
+      98.13469,
+      13.88634
+     ],
+     [
+      98.14082,
+      13.89859
+     ]
+    ]
+   },
+   {
+    "day": 29,
+    "mode": "road",
+    "coords": [
+     [
+      98.13911,
+      13.95626
+     ],
+     [
+      98.12589,
+      13.9416
+     ]
+    ]
+   },
+   {
+    "day": 29,
+    "mode": "road",
+    "coords": [
+     [
+      98.12589,
+      13.9416
+     ],
+     [
+      98.1596,
+      13.79993
+     ]
+    ]
+   },
+   {
+    "day": 30,
+    "mode": "road",
+    "coords": [
+     [
+      98.1596,
+      13.79993
+     ],
+     [
+      98.15878,
+      13.78825
+     ]
+    ]
+   }
+  ],
+  "straight_km": 48.1
+ },
+ "ts_order": [
+  "Dawei",
+  "Launglon",
+  "Thayetchaung",
+  "Yebyu",
+  "Palaw",
+  "Tanintharyi",
+  "Bokpyin"
+ ]
+}
